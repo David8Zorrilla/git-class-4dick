@@ -19,5 +19,7 @@ git commit -m
 "message"
 git log
 git diff
+git branch
+
 ```
 > Nota: bla vbla bla
