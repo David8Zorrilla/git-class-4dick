@@ -2,8 +2,6 @@ Titulo
 
 ====
 
-## Segundo
-
 ###Tercero
 
 *lista 1
