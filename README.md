@@ -20,6 +20,6 @@ git commit -m
 git log
 git diff
 git branch
-
+git checkout -b "Name"
 ```
-> Nota: bla vbla bla
+> Nota: bla vbla bla bla
