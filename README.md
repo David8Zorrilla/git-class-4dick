@@ -21,5 +21,7 @@ git log
 git diff
 git branch
 git checkout -b "Name"
+git reset
+git reset --hard
 ```
 > Nota: bla vbla bla bla
